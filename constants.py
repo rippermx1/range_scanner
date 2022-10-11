@@ -1,0 +1,2 @@
+EXCHANGE_BINANCE = 'binance'
+EXCHANGE_FTX = 'ftx'
